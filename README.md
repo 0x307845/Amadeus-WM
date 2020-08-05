@@ -1,2 +1,2 @@
-# Amadeus_WM-KDE-
+# Amadeus WM
 A personal WM for your computer.
