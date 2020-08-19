@@ -13,7 +13,7 @@ How to install a theme on KDE:
   5. Go back to theme selection
   6. Select your theme
 
-![image2](https://i.ibb.co/XWFsqHm/Screenshot-20200819-194732.png)
+![image2](https://i.ibb.co/K5VqJnC/Screenshot-20200819-194732.png)
 
 # Discord theme
 
