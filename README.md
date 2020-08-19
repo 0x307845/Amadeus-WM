@@ -12,3 +12,18 @@ How to install a theme on KDE:
   4. Click on install
   5. Go back to theme selection
   6. Select your theme
+
+![image2](https://ibb.co/XWFsqHm)
+
+# Discord theme
+
+Dependency :
+  1.[Discord](https://discord.com) 
+  2.[BetterDiscord](https://betterdiscord.net/home)
+
+How to install discord theme : 
+  1. Go on betterdiscord settings
+  2. Click on theme
+  3. Open theme folder 
+  4. Download theme file 
+  5. Move theme file on theme folder
