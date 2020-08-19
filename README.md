@@ -1,4 +1,5 @@
 # Amadeus WM
+
 ![image1](https://i.ibb.co/kJSTt9C/Screenshot-20200805-183251.png)
 
 [Download theme](https://store.kde.org/p/1235613)
@@ -13,9 +14,9 @@
   5. Go back to theme selection
   6. Select your theme
 
-![image2](https://i.ibb.co/K5VqJnC/Screenshot-20200819-194732.png)
-
 # Discord theme
+
+![image2](https://i.ibb.co/K5VqJnC/Screenshot-20200819-194732.png)
 
 ## Dependency :
   1. [Discord](https://discord.com) 
